@@ -118,7 +118,7 @@ networkx==3.4.2
 notebook==7.3.2
 notebook_shim==0.2.4
 numba==0.61.0
-numpy==2.2.3
+numpy
 oauthlib==3.2.2
 olefile==0.47
 openpyxl==3.1.5
